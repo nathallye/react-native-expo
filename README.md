@@ -28,7 +28,7 @@ O resultado da criação do projeto utilizando esta forma é bem enxuta. Tem o b
 
 O React Native pode ser atualizado a qualquer momento, inclusive versões alfa ou beta. Você pode tanto fazer um upgrade quanto um downgrade do core do React Native sem ter que esperar uma série de validações como no caso do Expo.
 
-## Preparando o seu ambiente React Native - Linux
+## Preparando o ambiente React Native - Linux
 
 **Dependências**
 
@@ -129,8 +129,6 @@ Com o **Android Studio**, é possível configurar um emulador Android e executar
 
 Porém, esses emuladores consomem bastante recursos do computador. Por isso, se possuir um dispositivo físico Android e a máquina utilizada possuir configurações modestas (ex.: ⬇ i3, ⬇ 4gb RAM), é recomendado executar a aplicação no dispositivo físico pelo Expo GO.
 
-Para aprender a instalar e configurar o emulador, [siga esse guia](https://react-native.rocketseat.dev/virtual-devices/android-emulator).
-
 #### iOS
 
 > Disponível apenas para máquinas macOS. Windows e Linux não suportam iOS simulator.
@@ -147,3 +145,15 @@ Agora que possuimos tudo que é necessário para executar uma aplicação Expo, 
 - Se for emulador Android, basta digitar `a` no terminal.
 
 Seguindo esses passo o app deve abrir com sucesso no dispositivo! 🎉
+
+### Estrutura de pastas
+
+- **assets**
+- **node_modules**
+- **.gitignore**
+- **app.json**: informações da aplicacação;
+- **App.tsx**: arquivo da aplicação;
+- **babel.config.js** : arquivo de configuração do babel, já vem configurado, faz compilação para as versões mais antigas do JS;
+- **package.json**
+- **tsconfig.json**
+
