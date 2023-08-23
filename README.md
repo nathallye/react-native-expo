@@ -140,7 +140,7 @@ Agora que possuimos tudo que é necessário para executar uma aplicação Expo, 
 - Acessar a pasta do projeto pelo terminal;
 - Executar o comando `npx expo start`;
 - Abrir o app no dispositivo via Expo GO;
-- Se for dispositivo físico Android, basta abrir o app Expo GO, selecionar a opção S`can QR code` e ler o QR Code apresentado no terminal;
+- Se for dispositivo físico Android, basta abrir o app Expo GO, selecionar a opção `Scan QR code` e ler o QR Code apresentado no terminal;
 - Se for dispositivo físico iOS, basta abrir o app de camera do iOS, ler o QR Code apresentado no terminal e clicar no popup `Open with Expo Go app`;
 - Se for emulador Android, basta digitar `a` no terminal.
 
