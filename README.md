@@ -18,7 +18,9 @@ Facilita (e muito) rodar seu projeto em dispositivos físicos. No seu ecossistem
 
 #### Managed workflow x Bare workflow
 
-![Captura de tela 2023-08-21 232131](https://github.com/nathallye/ignite-im-here/assets/86172286/93be5d5a-1867-495b-a54f-628fb058200b)
+<div align="center">
+  <img width="600" src="https://github.com/nathallye/ignite-im-here/assets/86172286/93be5d5a-1867-495b-a54f-628fb058200b">
+</div>
 
 ### CLI
 
